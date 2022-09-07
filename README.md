@@ -1,4 +1,4 @@
-# The main goal of this project is to demonstrate my ability to:
+# The Main Goal of This Project is to Demonstrate my Ability to:
 
 - Interpret the measures of central tendency and spread (mean, median, standard deviation, range).
 - Use a combination of Excel functions (e.g., IF statements, INDEX, and MATCH, calculating descriptive statistics with the IF statement, dropdowns, data validation, VLOOKUP).
